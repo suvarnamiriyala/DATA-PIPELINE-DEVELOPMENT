@@ -12,6 +12,7 @@
 
 *MENTOR*     : NEELA SANTOSH KUMAR
 
+*DESCRIPTION* :
 I successfully completed a data analysis and preprocessing task using the Titanic dataset as part of my learning in Data Science and Machine Learning. The main objective of this task was to understand the dataset, clean the data, perform exploratory data analysis (EDA), and prepare the dataset for future machine learning model building. This task helped me improve my practical knowledge of Python libraries, data handling techniques, and analytical thinking.
 
 For this project, I used Python as the programming language and worked in Jupyter Notebook as the editor and development environment. Jupyter Notebook helped me execute code step by step, visualize outputs clearly, and document the workflow in an organized manner. I also used Anaconda Navigator to manage the environment and required libraries efficiently.
@@ -27,3 +28,6 @@ After preprocessing, I conducted Exploratory Data Analysis (EDA) to identify tre
 I also learned how to calculate correlations between features using heatmaps and statistical summaries. This helped me understand feature importance and data distribution patterns. Throughout the task, I focused on writing clean and readable code with proper comments and logical execution flow.
 
 This project improved my understanding of real-world dataset handling, data preprocessing techniques, and visualization methods. It also enhanced my confidence in using Python libraries for data analysis tasks. By completing this task, I gained hands-on experience in data cleaning, EDA, feature understanding, and workflow organization, which are essential skills in the field of Data Science and Machine Learning.
+
+*OUTPUT*  :
+<img width="15" height="13" alt="Image" src="https://github.com/user-attachments/assets/4f0489e9-1237-42e7-8b09-3eec6e0b292d" />
