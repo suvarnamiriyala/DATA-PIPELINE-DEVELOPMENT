@@ -30,4 +30,4 @@ I also learned how to calculate correlations between features using heatmaps and
 This project improved my understanding of real-world dataset handling, data preprocessing techniques, and visualization methods. It also enhanced my confidence in using Python libraries for data analysis tasks. By completing this task, I gained hands-on experience in data cleaning, EDA, feature understanding, and workflow organization, which are essential skills in the field of Data Science and Machine Learning.
 
 *OUTPUT*  :
-<img width="15" height="13" alt="Image" src="https://github.com/user-attachments/assets/4f0489e9-1237-42e7-8b09-3eec6e0b292d" />
+<img width="546" height="462" alt="Image" src="https://github.com/user-attachments/assets/731e907c-669f-441a-b79d-9c89ee23a4c5" />
